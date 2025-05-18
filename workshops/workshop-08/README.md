@@ -1,6 +1,0 @@
-# ArgoCD Observability
-
-
-
-
-## Notification
